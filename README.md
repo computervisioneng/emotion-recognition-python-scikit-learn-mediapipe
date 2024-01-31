@@ -1,7 +1,7 @@
 # emotion-recognition-python-scikit-learn-mediapipe
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=">
+<a href="https://www.youtube.com/watch?v=h0LoewzGzhc">
     <img width="100%" src="https://github.com/computervisioneng/emotion-recognition-python-scikit-learn-mediapipe/blob/main/thumbnail.jpg?raw=true" alt="Watch the video">
     </br>Watch on YouTube: Emotion recognition with Python, Scikit Learn and Mediapipe !
 </a>
